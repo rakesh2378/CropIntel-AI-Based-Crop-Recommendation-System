@@ -1,4 +1,3 @@
-<img width="938" height="475" alt="image" src="https://github.com/user-attachments/assets/77621c86-58a9-4395-9e99-7635088a07b8" /># 🌱 AI/ML Project – Smart Crop Recommendation System
 
 ## 📌 Project Overview
 This project is a Machine Learning–based crop recommendation system that suggests the most suitable crop to grow based on soil and environmental conditions.  
